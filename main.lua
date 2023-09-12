@@ -51,7 +51,7 @@ function love.load()
     math.randomseed(os.time())
 
     -- app window title
-    love.window.setTitle('Fifty Bird With Desparete')
+    love.window.setTitle('Dragon's Quest - Flappy Bird Reimagined')
 
     -- initialize our nice-looking retro text fonts
     smallFont = love.graphics.newFont('font.ttf', 8)
