@@ -1,7 +1,4 @@
-# flappybird_using_lua
-# Fifty Bird Game README.md
-
-This README.md file provides an overview and explanation of the code for the game "Fifty Bird." The game is a Flappy Bird clone, where the player controls a bird and navigates it through a series of pipes, trying to score as many points as possible.
+# Dragon's Quest - Flappy Bird Reimagined
 
 ## Getting Started
 
